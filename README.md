@@ -19,7 +19,7 @@ We have taken one particular example of this: a control that ensures systems can
 
 ## Constraints
 
-* You can use any langugage, framework, models, APIs or technologies you feel best suited for the task.
+* You can use any langugage, framework, models, APIs or technologies you feel best suited for the task. We have [developed our own harness](https://github.com/bead-ai/zeitlich/) if you need a starting point.
 * There are no cost or performance requirements. Accuracy is the only objective for now.
 * We will let you decide how generic your solution should be. For this task, it is enough if it can cover this particular control with various inputs.
 * Auditing often means making judgments with imperfect input. A good auditor balances detail and efficiency.
